@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-//comment
+//added comment
 
 func Add(a, b int) int {
 	return a + b

@@ -5,6 +5,7 @@ import (
 	"testing"
 )
 
+// added coment in main_test.go
 var (
 	requiredFiles = []string{"README.md", "main.go", "main_test.go", "go.mod"}
 )
